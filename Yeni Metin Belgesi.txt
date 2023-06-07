@@ -8,6 +8,9 @@ gördüğümüzde bu çalışma alanımızda boş bir repository oluşturmuş ol
 5-git commit -m"version adı" kodunu yazarak stage deki kodlarımızdan versiyon olusturmus oluruz.
 6-working space ve stage'de kodlarımızın durumunu görmek için git status komutunu kullanırız.
 7-commit stora(yani versiyon oluşturduğumuz yer) daki versiyonlarımızı görmek için de git log --oneline komutunu kullanırız
+8-Olusturmus oldugumuz versionu github a gonderebilmek icin git push <github repository adresi> yada devamlı kullanacagımız bir repoysa 
+git remote add origin <repo adresi> git push -u master komutuyla github a gonderebiliriz.
+
 
 
 
