@@ -10,6 +10,7 @@ gördüğümüzde bu çalışma alanımızda boş bir repository oluşturmuş ol
 7-commit stora(yani versiyon oluşturduğumuz yer) daki versiyonlarımızı görmek için de git log --oneline komutunu kullanırız
 8-Olusturmus oldugumuz versionu github a gonderebilmek icin git push <github repository adresi> yada devamlı kullanacagımız bir repoysa 
 git remote add origin <repo adresi> git push -u master komutuyla github a gonderebiliriz.
+9-Github a gonderdigimiz kodları da baska bir calısma ortamına cekebilmek icin git pull <github repo adresi>yazarak cekebiliriz
 
 
 
