@@ -16,6 +16,10 @@ Aynı şekilde adresi tanımladığımız için sadece git push komutu ilede kod
 
 
 
+--Restore/Branch ve Stash
+
+
+
 
 
 
